@@ -1,7 +1,7 @@
 # ruban-rose - Détection de l'IDC
 Solution d'IA basée sur la Computer Vision pour la détection automatisée du carcinome canalaire invasif (IDC) à partir d'images histopathologiques. Ce projet vise à améliorer la précision du diagnostic du cancer du sein et à accélérer la prise en charge des patientes grâce au Deep Learning (CNN, ResNet) et à l'optimisation via Optuna.
 
-## 1. Contexte du Projet & Problématique
+## 📌 1. Contexte du Projet & Problématique
 
 Le cancer du sein est le cancer le plus fréquent chez la femme. Dans près de 80% des cas, il s'agit d'un **Carcinome Canalaire Invasif (IDC)**. Le protocole clinique standard repose sur une biopsie mammaire analysée manuellement par un anatomo-pathologiste. Cette tâche est chronophage, complexe et dépend fortement de l'expertise du spécialiste et de la qualité du matériel.
 

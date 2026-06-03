@@ -89,9 +89,9 @@ Le développement de cet outil a été guidé par l'étude des standards de l'é
 ruban-rose/
 ├── data/               # Instructions d'accès au dataset (exclues du suivi Git)
 ├── notebooks/          # Notebook complet d'EDA, Prétraitement et Modélisation
-├── outputs/            # Sauvegardes des meilleurs modèles (.keras) et graphiques
 ├── .gitignore          # Filtre des fichiers lourds (images, caches)
-└── README.md           # Documentation du projet
+├── README.md           # Documentation du projet
+└── requirements.txt    # Liste toutes les bibliothèques Python indispensables
 
 8. Installation et Utilisation
 Prérequis

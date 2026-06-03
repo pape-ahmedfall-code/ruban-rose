@@ -207,6 +207,25 @@ tempCodeRunnerFile.py
 .ruff_cache/
 
 # PyPI configuration file
+
+# REGLES SPECIFIQUES AU PROJET RUBAN ROSE
+
+# Ignorer le dossier local contenant les milliers de patchs d'images
+data/
+content/data/
+
+# Ignorer les archives zip téléchargées
+*.zip
+*.tar.gz
+*.tgz
+
+# Ignorer les modèles lourds entraînés (Deep Learning)
+*.keras
+*.h5
+*.hd5
+*.pkl
+best_cnn_model.keras
+best_resnet_model.keras
 .pypirc
 
 # Marimo

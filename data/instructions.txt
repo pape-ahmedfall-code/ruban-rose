@@ -1,0 +1,5 @@
+Les images histopathologiques étant trop lourdes pour être stockées sur GitHub, elles ont été exclues via le fichier .gitignore.
+
+Pour exécuter le projet, téléchargez le dataset "Breast Histopathology Images" sur Kaggle en cliquant sur le lien ci-dessousq et placez l'archive zip dans votre Google Drive à l'emplacement indiqué au début du notebook.
+
+https://www.kaggle.com/datasets/alaminbhuyan/breast-histopathology-images
